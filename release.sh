@@ -1,7 +1,7 @@
 #in venv
 . venv/bin/activate
-#pip install -r req.txt
-pip freeze > req.txt
+#pip install -r poetry
+poetry install
 chmod u+x *.sh *.py
 #git clone -o AllFinanceApp https://github.com/PenguinLW/AllFinanceApp.git
 #git config --global user.email "diana1997525@gmail.com"
