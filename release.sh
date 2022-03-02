@@ -13,5 +13,5 @@ git config --global credential.helper "cache --timeout=25200"
 git pull --all
 git add .
 git commit -m PenguinL
-git push --set-upstream AllFinanceApp master
+git push --set-upstream AllFinanceApp development
 #deactivate
