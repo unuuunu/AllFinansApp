@@ -2,7 +2,10 @@
 name = "finansbot"
 version = "0.1.0"
 description = ""
-authors = ["Victor <nilafe4@gmail.com>"]
+authors = [
+    "Victor <nilafe4@gmail.com>",
+    "unuuunu <000llj7@gmail.com>"
+]
 
 [tool.poetry.dependencies]
 python = "^3.10"
